@@ -30,7 +30,7 @@ Vercel
 Netlify
 ```
 
-[Live Website](https://portfolio-sivesh-shrutik.netlify.app/)
+<a href="[https://example.com](https://portfolio-sivesh-shrutik.netlify.app/)" target="_blank">Live Website</a>
 
 ## Author
 
