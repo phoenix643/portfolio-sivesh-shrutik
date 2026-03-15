@@ -30,7 +30,7 @@ Vercel
 Netlify
 ```
 
-[Live Website]([https://example.com](https://portfolio-sivesh-shrutik.netlify.app/))
+[Live Website](https://portfolio-sivesh-shrutik.netlify.app/)
 
 
 ## Author
